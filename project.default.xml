@@ -1,0 +1,46 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Cosmos-DB-Analytical-Store-Spark" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/AnalyticsSparkConnector/AnalyticsSparkConnector" value="PREVIEW" />
+            <entry key="C:/cosmosdb/AnalyticsSparkConnector/AnalyticsSparkConnector" value="PREVIEW" />
+            <entry key="C:/cosmosdb/Streaming/Streaming" value="PREVIEW" />
+            <entry key="C:/cosmosdb/delta-0.6.0/delta-0.6.0" value="PREVIEW" />
+            <entry key="C:/cosmosdb/git/AnalyticsSparkConnector" value="PREVIEW" />
+            <entry key="C:/cosmosdb/git/Arcadia_Runners/FunctionalScenarios/DeltaRunner" value="PREVIEW" />
+            <entry key="C:/cosmosdb/git/Arcadia_Runners/FunctionalScenarios/HivePartitionTableRunner" value="PREVIEW" />
+            <entry key="C:/cosmosdb/git/Arcadia_Runners/FunctionalScenarios/RunnerForHiveMetaStore" value="PREVIEW" />
+            <entry key="C:/cosmosdb/git/CosmosDB/Product/Cosmos/ComputeV2/AnalyticsSparkConnector" value="PREVIEW" />
+            <entry key="C:/cosmosdb/git/spark-cassandra-connector" value="PREVIEW" />
+            <entry key="C:/cosmosdb/mongospark/MongoSpark/MongoSpark" value="PREVIEW" />
+            <entry key="C:/cosmosdb/spark_cosmosdb" value="PREVIEW" />
+            <entry key="C:/cosmosdb/spark_cosmosdb - Copy" value="PREVIEW" />
+            <entry key="C:/cosmosdb/spark_cosmosdb_1206" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>10</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

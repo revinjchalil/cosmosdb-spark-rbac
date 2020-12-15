@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="dsdgen" type="PLAIN_TEXT" />
+      <mapping pattern="collections" type="PLAIN_TEXT" />
+      <mapping pattern="names" type="PLAIN_TEXT" />
+      <mapping ext="idx" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

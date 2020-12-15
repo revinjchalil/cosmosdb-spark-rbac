@@ -1,0 +1,9 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FILTER_LEGALS" value="true" />
+  </component>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="15" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1257" />
+  </component>
+</application>

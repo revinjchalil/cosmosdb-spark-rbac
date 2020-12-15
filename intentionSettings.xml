@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Scala/Type/Convert to Java collection" />
+  </component>
+</application>

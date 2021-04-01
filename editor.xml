@@ -3,6 +3,6 @@
     <EXCLUDED_PACKAGE NAME="org.apache.spark" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_SIZE" value="14" />
   </component>
 </application>

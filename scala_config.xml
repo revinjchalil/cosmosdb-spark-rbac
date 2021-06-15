@@ -6,6 +6,7 @@
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
     <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
     <option name="RENAME_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+    <option name="SUGGEST_IN_EDITOR_DOC_RENDERING" value="false" />
     <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />
   </component>
 </application>

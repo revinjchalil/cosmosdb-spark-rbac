@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\src\main\scala\com\microsoft\azure\cosmos\analytics\spark\connector\store\alos\metadata\FileSegmentMetadata.scala [cosmos-analytics-spark-connector]'" />
+    <option name="defaultScopeName" value="File '...\src\main\scala\com\microsoft\azure\cosmos\analytics\spark\connector\store\alos\metadata\FileSegmentMetadata.scala [cosmos-analytics-spark-connector]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\src\main\scala\com\microsoft\azure\cosmos\analytics\spark\connector\store\alos\metadata\FileSegmentMetadata.scala [cosmos-analytics-spark-connector]'" />
   </component>
 </application>
